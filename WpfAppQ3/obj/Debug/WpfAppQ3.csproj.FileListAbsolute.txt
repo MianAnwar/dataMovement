@@ -1,0 +1,14 @@
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\MainWindow.g.cs
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\App.g.cs
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3_MarkupCompile.cache
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3_MarkupCompile.lref
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\bin\Debug\WpfAppQ3.exe.config
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\bin\Debug\WpfAppQ3.exe
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\bin\Debug\WpfAppQ3.pdb
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\MainWindow.baml
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3.g.resources
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3.Properties.Resources.resources
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3.csproj.GenerateResource.Cache
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3.exe
+D:\UNIVERSITY DATA 1-7\Final Year\Semester 7\3 Enterprise Application Development EAD\pro\WpfAppQ3\WpfAppQ3\obj\Debug\WpfAppQ3.pdb
